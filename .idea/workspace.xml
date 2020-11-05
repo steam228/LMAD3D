@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37f380a2-9855-4068-acd2-e18a458a14b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/content/posts/Projecto.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/Projecto.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/aula2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/aula2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/aula3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/aula3.md" afterDir="false" />
+>>>>>>> f853eb830b8976e98c86f05f26f8f83236e10d2d
+>>>>>>> b0ecfe6413466e1ec11f4b1c88afdedd2e992be7
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iSGVT5Q6dJh66pCchucU6A7L5J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37f380a2-9855-4068-acd2-e18a458a14b2" name="Default Changelist" comment="" />
+      <created>1601893602883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601893602883</updated>
+      <workItem from="1601893611076" duration="1691000" />
+      <workItem from="1601898253983" duration="6734000" />
+      <workItem from="1601973610469" duration="1268000" />
+      <workItem from="1602009523885" duration="2359000" />
+<<<<<<< HEAD
+      <workItem from="1602526658076" duration="1783000" />
+      <workItem from="1603181035683" duration="599000" />
+      <workItem from="1603229312255" duration="493000" />
+      <workItem from="1603236553044" duration="313000" />
+=======
+      <workItem from="1602526658076" duration="2928000" />
+      <workItem from="1602578789781" duration="609000" />
+      <workItem from="1602843497351" duration="564000" />
+>>>>>>> b0ecfe6413466e1ec11f4b1c88afdedd2e992be7
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="452" key="git4idea.merge.GitMergeDialog" timestamp="1601989530420">
+      <screen x="0" y="23" width="2560" height="1378" />
+    </state>
+    <state x="426" y="452" key="git4idea.merge.GitMergeDialog/0.23.2560.1378@0.23.2560.1378" timestamp="1601989530420" />
+  </component>
+</project>
