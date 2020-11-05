@@ -4,7 +4,7 @@ title: About
 
 # Esta Página
 
-agrega alguns conteúdos e materiais de apoio do Módulo de Design de Produto e Interacção da Unidade Curricular de Projecto em Design V
+agrega alguns conteúdos e materiais de apoio ao Laboratório de Modelação e Animação 3D
 
 ### André Rocha
 

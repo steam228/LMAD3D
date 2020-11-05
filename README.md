@@ -1,4 +1,4 @@
-# Aulas de Design de Produto V
+# Laboratório de Modelação e Animação 3D
 ## Sumários e Recursos
 
 

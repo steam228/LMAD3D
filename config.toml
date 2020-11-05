@@ -1,6 +1,6 @@
-baseURL = "https://dpv.steam228.com/"
+baseURL = "https://LMAD3D.steam228.com/"
 languageCode = "en-us"
-title = "Design de Produto e Interação - PeDV"
+title = "Laboratório de Modelação e Animação 3D"
 disableKinds = ["section", "categories"]
 disqusShortname = ""
 pygmentsCodeFences = false

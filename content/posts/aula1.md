@@ -1,10 +1,11 @@
 ---
 title: "Aula 1"
-description: "Apresentação e Funcionamento do Módulo de Design de Produto"
-date: "2020-10-05"
+description: "Apresentação e Funcionamento da Unidade Curricular"
+date: "2020-10-22"
 tags:
 - moodle
 - recursos
+- tecnologias
 ---
 
 # Sumário
@@ -12,40 +13,38 @@ tags:
 (Aula Online)
 
 1. Apresentação de Aluna(o)s e Professor;
-2. Funcionamento das aulas remotas e presenciais e utilização dos recursos disponibilizados: moodle, wikifactory, página do módulo;
-3. Design de Produto e Interação / Design de Produtos Interativos!
-4. Apresentação de Projecto;
-5. Modelo de documentação no Wikifactory.
-
-
----
-### Design de Produto e Interação / Design de Produtos Interativos!
-
-{{< yt yY96hTb8WgI >}}
-
+2. Funcionamento das aulas e utilização dos recursos disponibilizados: moodle, página do módulo;
+3. Introdução e Apresentação de diferentes tecnologias 3D e suas aplicações.
+4. Introdução através da ferramenta TinkerCAD;
+5. Exercício 1
 ---
 
-{{< yt lUNXxRffX7c >}}
 
----
-### Modelo de documentação no Wikifactory
+# Recursos
 
-{{< yt wpXf-fh-iPY >}}
----
+### Exemplos e Links da Aula
 
-{{< yt 7a_HeZ7iPnA >}}
-
+1. Modelação 3D
+    * 
+    * 
 
 
+2. Rendering
 
-[Template de Projecto](https://wikifactory.com/+wikifactory/wikifactory-demo-project)
+3. Animação
 
-# TPC:
+4. Gaming
 
-1. Configuração e abertura de projectos no Wikifactory;
-2. Research.md (bloco de notas, com referencias, esboços exploratórios e elementos de inspiração, tanto visual como técnica)
+### TinkerCAD
 
-# Referências
+* Video Introdutório:
+{{< yt 60xfIu-lqAsg >}}
 
-* Moggridge, B. (2007). Designing Interactions (1st ed.). The MIT Press. - [link](https://www.designinginteractions.com/)
+* Exemplo com peças mais complexas:
+{{< yt MqEarBuMn1g >}}
+___
 
+
+# Exercícios
+
+[Imagem](link para imagerm)

@@ -1,46 +1,23 @@
 ---
 title: "Aula 2"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
-date: "2020-10-12"
+description: "Introdução ao TinkerCAD"
+date: "2020-10-29"
 tags:
-- analiseProjetual
-- sketching
+- tinkerCAD
 ---
 
 # Sumário
 
 (Aula Online)
 
-1. Discussão de Fase de Pesquisa e Publicação no Wikifactory;
-2. Design Aberto e Distribuído;
-3. Esboço, revisão acerca de técnicas;
+1. Introdução ao ambiente de trabalho para desenho em 3D dimensões;
+2. Eixos Cartesianos e Planos Auxilares;
+3. do TinkerCAD para o Fusion360 (Exercicio 2)
+
 
 ___
-# 2. Design Aberto e Distribuído
-
-___
-{{< yt VdYRAf_ywsg >}}
-___
-
-
-## Aberto
-___
-{{< yt 8WIbrLXOKR0 >}}
-___
-{{< yt 4fB3SFgKPog >}}
+# Recursos
 
 
 
-## Sustentável
 
-___
-{{< yt XCsGLWrfE4Y >}}
-___
-{{< yt QpApECAv02I >}}
-___
-
-
-## Ecosistémico
-
-
-##
