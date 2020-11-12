@@ -1,20 +1,19 @@
 ---
 title: "Aula 4"
 description: "Colaboração digital - Design Distribuído"
-date: "2020-12-26"
+date: "2020-11-11"
 tags:
 
 ---
 
 # Sumário
 
-(Aula Presencial Turno 2 - Online)
-
-1. Colaboração digital - Whiteboards digitais (miro.com) e outras práticas (discussão e ponto de situação);
-2. O Exemplo das cartas "Fabschools" e a introdução dos valores do Design Distribuído na prática projectual.
-3. Esboço, revisão acerca de técnicas - Presencial;
+ 1. Revisão Aula Anterior;
+ 2. Apoio à realização do exercício;
+ 3. Sketeches e Constraints.
+ 
  
 ___
 # Recursos
 
-* [UN SDG's](https://sdgs.un.org/goals)
+{{< yt 7idGQXQP7y4 >}}
