@@ -10,7 +10,7 @@ tags:
 
  1. Revisão Aula Anterior;
  2. Apoio à realização do exercício;
- 3. Sketeches e Constraints.
+ 3. Sketches e Constraints.
  
  
 ___
