@@ -1,6 +1,6 @@
 ---
-title: "Lorem ipsum"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+title: "Aula 5"
+description: "Parametrização"
 date: "2020-11-19"
 tags:
 - Desenho Paramétrico
