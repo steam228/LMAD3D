@@ -16,4 +16,12 @@ tags:
  
  
 ___
+
 # Recursos
+
+### Parte 1
+{{< yt F5xQWNkRNfw >}}
+
+### Parte 2
+{{< yt jSEf8Q1YLYg >}}
+ 
