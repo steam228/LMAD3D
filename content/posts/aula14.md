@@ -1,6 +1,6 @@
 ---
 title: "Aula de Revisões"
-description: "Demonstração do exercicio final em Blender
+description: "Demonstração do exercicio final em Blender"
 date: "2021-02-01"
 tags:
 - Blender
