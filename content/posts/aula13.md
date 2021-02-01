@@ -1,8 +1,18 @@
 ---
 title: "Aula 13"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+description: "Exercício Final"
 date: "2021-01-28"
 tags:
-- fablab
+- Blender
 ---
 
+# Sumário
+(aula online)
+
+
+1. Revisão Aula Anterior;
+2. Exercício final;
+3. Balanço e Revisão, apoio a exercícios em atraso.
+
+
+___

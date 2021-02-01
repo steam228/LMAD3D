@@ -1,6 +1,6 @@
 ---
 title: "Aula 8"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+description: "Modelação"
 date: "2020-12-10"
 tags:
 - Blender
@@ -16,7 +16,6 @@ tags:
 
 
 
-___
 ___
 # Recursos
 

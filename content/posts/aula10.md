@@ -1,9 +1,22 @@
 ---
 title: "Aula 10"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+description: "modificadores"
 date: "2021-01-07"
 tags:
-- Lorem
-- Ipsum
+- Blender
+- modelação
 ---
 
+
+
+---
+
+# Sumário
+(aula online)
+
+
+1. Revisão Aula Anterior;
+2. Modificadores: Exemplos e aplicações
+3. Acompanhamento de Exercícios.
+
+___
