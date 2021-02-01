@@ -1,7 +1,7 @@
 ---
 title: "Aula 4"
 description: "Colaboração digital - Design Distribuído"
-date: "2020-11-11"
+date: "2020-11-12"
 tags:
 
 ---

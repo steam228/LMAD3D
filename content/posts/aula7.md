@@ -8,7 +8,7 @@ tags:
 ---
 
 # Sumário
-(aula extraordinariamente no horário da tarde)
+
 
  1. Revisão Aula Anterior;
  2. Apoio ao projecto "Brinquedo Paramétrico";
@@ -18,5 +18,17 @@ tags:
 ___
 # Recursos
 
+### Introdução ao Interface de Blender e primeiros passos:
+{{< yt MF1qEhBSfq4 >}}
 
+{{< yt ILqOWe3zAbk >}}
 
+{{< yt 8XyIYRW_2xk >}}
+
+{{< yt hTL6AKR8YDs >}}
+
+{{< yt u_yIGGhubZs >}}
+
+{{< yt JSAobQPRLwc >}}
+
+{{< yt 7DNmaR7TKwU >}}

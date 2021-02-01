@@ -1,9 +1,22 @@
 ---
-title: "Lorem ipsum"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
-date: "2021-01-19"
+title: "Aula de Revisões"
+description: "Demonstração do exercicio final em Blender
+date: "2021-02-01"
 tags:
-- Lorem
-- Ipsum
+- Blender
+- Sculpt
 ---
 
+# Sumário
+
+1. Revisão Blender, orientada para a resolução do Exercício final;
+2. Acompanhamento e Tutoria;
+
+---
+
+
+
+
+
+[3 point light](https://www.youtube.com/watch?v=RDbrOpnIY7Q)
+[Iluminação rápida - tutorial Blender Guru](https://www.youtube.com/watch?v=5UCc3Z_-ibs)

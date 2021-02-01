@@ -14,8 +14,6 @@ tags:
  2. Apoio à realização do exercício;
  3. Configuração de Parametros
  
- 
-___
-# Recursos
+
 
 
