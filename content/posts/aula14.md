@@ -18,5 +18,5 @@ tags:
 
 
 
-[3 point light](https://www.youtube.com/watch?v=RDbrOpnIY7Q)
-[Iluminação rápida - tutorial Blender Guru](https://www.youtube.com/watch?v=5UCc3Z_-ibs)
+* [3 point light](https://www.youtube.com/watch?v=RDbrOpnIY7Q)
+* [Iluminação rápida - tutorial Blender Guru](https://www.youtube.com/watch?v=5UCc3Z_-ibs)
