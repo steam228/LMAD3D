@@ -1,103 +1,139 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lines - Minimalist Hugo theme</title>
-    <link>https://lines-hugo-theme.netlify.app/tags/</link>
-    <description>Recent content in Tags on Lines - Minimalist Hugo theme</description>
+    <title>Tags on Laboratório de Modelação e Animação 3D</title>
+    <link>https://LMAD3D.steam228.com/tags/</link>
+    <description>Recent content in Tags on Laboratório de Modelação e Animação 3D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lines-hugo-theme.netlify.app/tags/atom.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://LMAD3D.steam228.com/tags/atom.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>css</title>
-      <link>https://lines-hugo-theme.netlify.app/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Blender</title>
+      <link>https://LMAD3D.steam228.com/tags/blender/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://lines-hugo-theme.netlify.app/tags/css/</guid>
+      <guid>https://LMAD3D.steam228.com/tags/blender/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>html</title>
-      <link>https://lines-hugo-theme.netlify.app/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Sculpt</title>
+      <link>https://LMAD3D.steam228.com/tags/sculpt/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://lines-hugo-theme.netlify.app/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://lines-hugo-theme.netlify.app/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lines-hugo-theme.netlify.app/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://lines-hugo-theme.netlify.app/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lines-hugo-theme.netlify.app/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>https://lines-hugo-theme.netlify.app/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lines-hugo-theme.netlify.app/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://lines-hugo-theme.netlify.app/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lines-hugo-theme.netlify.app/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://lines-hugo-theme.netlify.app/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lines-hugo-theme.netlify.app/tags/text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://lines-hugo-theme.netlify.app/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lines-hugo-theme.netlify.app/tags/emoji/</guid>
+      <guid>https://LMAD3D.steam228.com/tags/sculpt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ipsum</title>
-      <link>https://lines-hugo-theme.netlify.app/tags/ipsum/</link>
-      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      <link>https://LMAD3D.steam228.com/tags/ipsum/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://lines-hugo-theme.netlify.app/tags/ipsum/</guid>
+      <guid>https://LMAD3D.steam228.com/tags/ipsum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lorem</title>
-      <link>https://lines-hugo-theme.netlify.app/tags/lorem/</link>
-      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+      <link>https://LMAD3D.steam228.com/tags/lorem/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://lines-hugo-theme.netlify.app/tags/lorem/</guid>
+      <guid>https://LMAD3D.steam228.com/tags/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DistributedDesign</title>
+      <link>https://LMAD3D.steam228.com/tags/distributeddesign/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/tags/distributeddesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProductInteractionDesign</title>
+      <link>https://LMAD3D.steam228.com/tags/productinteractiondesign/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/tags/productinteractiondesign/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edit Mode</title>
+      <link>https://LMAD3D.steam228.com/tags/edit-mode/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/tags/edit-mode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blender3d</title>
+      <link>https://LMAD3D.steam228.com/tags/blender3d/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/tags/blender3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusion360</title>
+      <link>https://LMAD3D.steam228.com/tags/fusion360/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/tags/fusion360/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desenho Paramétrico</title>
+      <link>https://LMAD3D.steam228.com/tags/desenho-param%C3%A9trico/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/tags/desenho-param%C3%A9trico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tinkerCAD</title>
+      <link>https://LMAD3D.steam228.com/tags/tinkercad/</link>
+      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/tags/tinkercad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>moodle</title>
+      <link>https://LMAD3D.steam228.com/tags/moodle/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/tags/moodle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recursos</title>
+      <link>https://LMAD3D.steam228.com/tags/recursos/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/tags/recursos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tecnologias</title>
+      <link>https://LMAD3D.steam228.com/tags/tecnologias/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/tags/tecnologias/</guid>
       <description></description>
     </item>
     

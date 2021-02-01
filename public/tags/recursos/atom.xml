@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recursos on Laboratório de Modelação e Animação 3D</title>
+    <link>https://LMAD3D.steam228.com/tags/recursos/</link>
+    <description>Recent content in recursos on Laboratório de Modelação e Animação 3D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://LMAD3D.steam228.com/tags/recursos/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aula 1</title>
+      <link>https://LMAD3D.steam228.com/2020/10/22/aula1/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/2020/10/22/aula1/</guid>
+      <description>Sumário  Apresentação de Aluna(o)s e Professor; Funcionamento das aulas e utilização dos recursos disponibilizados: moodle, página do módulo; Introdução e Apresentação de diferentes tecnologias 3D e suas aplicações. Introdução através da ferramenta TinkerCAD; Exercício 1   Recursos Exemplos e Links da Aula   SketchUp
+  Tinkercad
+  Shapesmith
+  Flood
+  Sverchok
+  ZBrush
+  Rhino
+  Grasshopper
+  Kangaroo</description>
+    </item>
+    
+  </channel>
+</rss>

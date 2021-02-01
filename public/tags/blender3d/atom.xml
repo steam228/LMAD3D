@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blender3d on Laboratório de Modelação e Animação 3D</title>
+    <link>https://LMAD3D.steam228.com/tags/blender3d/</link>
+    <description>Recent content in blender3d on Laboratório de Modelação e Animação 3D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://LMAD3D.steam228.com/tags/blender3d/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aula 7</title>
+      <link>https://LMAD3D.steam228.com/2020/12/03/aula7/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/2020/12/03/aula7/</guid>
+      <description>Sumário  Revisão Aula Anterior; Apoio ao projecto &amp;ldquo;Brinquedo Paramétrico&amp;rdquo;; Introdução ao Interface de Blender   Recursos Introdução ao Interface de Blender e primeiros passos:               </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blender on Laboratório de Modelação e Animação 3D</title>
+    <link>https://LMAD3D.steam228.com/tags/blender/</link>
+    <description>Recent content in Blender on Laboratório de Modelação e Animação 3D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://LMAD3D.steam228.com/tags/blender/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aula de Revisões</title>
+      <link>https://LMAD3D.steam228.com/2021/02/01/aula14/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/2021/02/01/aula14/</guid>
+      <description>Sumário  Revisão Blender, orientada para a resolução do Exercício final; Acompanhamento e Tutoria;   3 point light Iluminação rápida - tutorial Blender Guru</description>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum</title>
+      <link>https://LMAD3D.steam228.com/2020/12/10/aula8/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/2020/12/10/aula8/</guid>
+      <description>Sumário  Revisão Aula Anterior; Entrega de Projectos: &amp;ldquo;Brinquedo Paramétrico&amp;rdquo;; Introdução à Modelação em Blender.    Recursos Introdução ao Interface de Blender e primeiros passos:             Restante Playlist:   </description>
+    </item>
+    
+  </channel>
+</rss>

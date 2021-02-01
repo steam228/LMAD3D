@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edit Mode on Laboratório de Modelação e Animação 3D</title>
+    <link>https://LMAD3D.steam228.com/tags/edit-mode/</link>
+    <description>Recent content in Edit Mode on Laboratório de Modelação e Animação 3D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://LMAD3D.steam228.com/tags/edit-mode/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem ipsum</title>
+      <link>https://LMAD3D.steam228.com/2020/12/10/aula8/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://LMAD3D.steam228.com/2020/12/10/aula8/</guid>
+      <description>Sumário  Revisão Aula Anterior; Entrega de Projectos: &amp;ldquo;Brinquedo Paramétrico&amp;rdquo;; Introdução à Modelação em Blender.    Recursos Introdução ao Interface de Blender e primeiros passos:             Restante Playlist:   </description>
+    </item>
+    
+  </channel>
+</rss>

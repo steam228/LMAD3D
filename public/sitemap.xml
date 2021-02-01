@@ -3,177 +3,224 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/2019/03/11/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/2021/02/01/aula14/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/2019/03/10/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/tags/blender/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/2019/03/09/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/2019/03/08/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/tags/sculpt/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/2019/03/05/aula1/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/tags/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/2017/03/11/lorem-ipsum/</loc>
-    <lastmod>2017-03-11T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/tags/ipsum/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/ipsum/</loc>
-    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/tags/lorem/</loc>
-    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lines-hugo-theme.netlify.app/2016/09/08/lorem-ipsum-sit-ale/</loc>
-    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/tags/lorem/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/2016/07/08/ipsum-lore-guti-sit-volu-sit-amet/</loc>
-    <lastmod>2016-07-08T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/2021/01/12/aula13/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/2015/09/08/lorem-catu-ale/</loc>
-    <lastmod>2015-09-08T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/2021/01/05/aula12/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/2014/09/08/ipsum-lore-de/</loc>
-    <lastmod>2014-09-08T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/tags/distributeddesign/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/2014/09/08/ipsum-lore-de-re-mo-mi/</loc>
-    <lastmod>2014-09-08T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/tags/productinteractiondesign/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/2014/09/08/ipsum-lore-de-re-mo/</loc>
-    <lastmod>2014-09-08T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/2020/12/20/projecto/</loc>
+    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/2014/05/08/ipsum-lore-de-re/</loc>
-    <lastmod>2014-05-08T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/2020/12/15/aula11/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/2013/09/08/ipsum-lore/</loc>
-    <lastmod>2013-09-08T00:00:00+00:00</lastmod>
+    <loc>https://LMAD3D.steam228.com/tags/edit-mode/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://lines-hugo-theme.netlify.app/about/</loc>
+    <loc>https://LMAD3D.steam228.com/2020/12/10/aula8/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/2020/12/08/aula10/</loc>
+    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/2020/12/03/aula7/</loc>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/tags/blender3d/</loc>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/tags/fusion360/</loc>
+    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/2020/12/01/aula9/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/2020/11/26/aula6/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/tags/desenho-param%C3%A9trico/</loc>
+    <lastmod>2020-11-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/2020/11/19/aula5/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/2020/11/12/aula4/</loc>
+    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/2020/11/05/aula3/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/2020/10/29/aula2/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/tags/tinkercad/</loc>
+    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/2020/10/22/aula1/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/tags/moodle/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/tags/recursos/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/tags/tecnologias/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://LMAD3D.steam228.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
